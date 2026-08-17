@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-frz40u.gitart.me/sitemap.xml
